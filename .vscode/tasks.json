@@ -1,0 +1,28 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "serve",
+            "type": "shell",
+            "command": "mdbook serve",
+            "problemMatcher": {
+                "owner": "rust",
+                "fileLocation": [
+                    "relative",
+                    "${workspaceFolder}"
+                ],
+                "source": "mdbook",
+                "pattern": {
+                    "regexp": "[\\s:-0-9]+\\[INFO\\] (mdbook::cmd::serve): Serving on: http://localhost:3000",
+                    "file": 1,
+                    "line": 2,
+                    "column": 3,
+                    "severity": 4,
+                    "message": 5
+                }
+            }
+        }
+    ]
+}

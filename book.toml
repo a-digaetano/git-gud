@@ -1,0 +1,6 @@
+[book]
+authors = ["Amedeo Di Gaetano"]
+language = "en"
+multilingual = false
+src = "src"
+title = "git-gud"
