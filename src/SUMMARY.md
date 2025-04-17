@@ -2,7 +2,6 @@
 
 <!-- # Per cominciare -->
 
-[Comandi istantanei](./instant.md)
 [Git in VSCode](./vscode.md)
   
 ------------------------------
@@ -23,5 +22,7 @@
 
 <!-- # BONUS -->
 
+[Comandi istantanei](./instant.md)
 [Git Flow](./flow.md)
 [Git LFS](./lfs.md)
+[Git Butler](./butler.md)
