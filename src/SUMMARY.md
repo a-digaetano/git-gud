@@ -18,11 +18,15 @@
 - [SQUASH!](./squash.md)
 - [Consigli remote!](./remote_tips.md)
 
+# BONUS
+
+- [Comandi istantanei](./instant.md)
+- [Git Flow](./flow.md)
+- [Git LFS](./lfs.md)
+<!-- - [Git Butler](./butler.md) -->
+
 ------------------------------
 
-<!-- # BONUS -->
+<!-- # Fonti -->
 
-[Comandi istantanei](./instant.md)
-[Git Flow](./flow.md)
-[Git LFS](./lfs.md)
-[Git Butler](./butler.md)
+[Fonti](./references.md)

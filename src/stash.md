@@ -8,6 +8,8 @@ git stash
 ```
 (aggiungi -u in fondo se vuoi includere nello stash anche file mai committati prima).
 
+![alt text](./assets/git-stash.png)
+
 Il comando salva tutte le modifiche dall'ultimo commit in una memoria accessibile come uno stack.
 Tuttavia, è sempre possibile visualizzare e applicare le modifiche anche non in cima
 e anche in maniera non distruttiva.

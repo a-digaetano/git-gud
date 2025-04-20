@@ -11,7 +11,7 @@ che permette di modificare l'ultimo commit in locale aggiungendo le ultime modif
 
 <div class="warning">
 
-Se il commit è stato pushato, NON FARE AMEND.
-Come regola generale, una volta che un commit è online, non si tocca
+Se il commit è stato pushato, **NON FARE AMEND**.
+Come regola generale, una volta che un commit è online non si tocca
 
 </div>
