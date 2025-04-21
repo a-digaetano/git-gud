@@ -16,3 +16,9 @@ e anche in maniera non distruttiva.
 
 Semplicemente, `git stash pop` rimuove e applica le modifiche in stash più recenti.
 `git stash apply` le applica senza rimuoverle dallo stash.
+
+![alt text](./assets/vscode-stash.png)
+
+Dal menu GitLens, è possibile visualizzare l'intero stack di stash, incluse le singole modifiche
+
+![alt text](./assets/gitlens-stash.png)
