@@ -14,3 +14,5 @@ In vscode, basta cliccare in basso a sinistra sul nome del branch attuale per ve
 ![alt text](./assets/vscode-new-branch.png)
 
 Questo commit romperà tutto!
+
+![alt text](./assets/vscode-merge.png)
