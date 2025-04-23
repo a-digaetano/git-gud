@@ -59,4 +59,3 @@ git cherry-pick
 ![alt text](./assets/git-cherry-pick.png)
 ![alt text](./assets/git-cherry-pick-1.png)
 ![alt text](./assets/git-cherry-pick-2.png)
-
