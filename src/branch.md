@@ -12,3 +12,5 @@ Oltre ad essere meno confusionario rispetto alle mille e uno funzionalità di `g
 In vscode, basta cliccare in basso a sinistra sul nome del branch attuale per vedere tutti gli altri branch locali e remoti, separati in due sezioni.
 
 ![alt text](./assets/vscode-new-branch.png)
+
+Questo commit romperà tutto!
