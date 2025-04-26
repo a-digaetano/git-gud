@@ -1,4 +1,4 @@
-# Branch
+# Chi fa da sè, non fa merge
 
 Non usare `git checkout` come i tuoi antenati per cambiare branch! La soluzione moderna è:
 ```bash

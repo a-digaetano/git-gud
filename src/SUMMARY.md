@@ -1,32 +1,27 @@
 # AAAAAAAAAAAA
 
-<!-- # Per cominciare -->
-
 [Git in VSCode](./vscode.md)
   
 ------------------------------
 
 # I panni sporchi si lavano in locale
 
-- [Stash](./stash.md)
-- [Branch](./branch.md)
+- [Too good to go](./stash.md)
+- [Chi fa da sè, non fa merge](./branch.md)
 - [Inciampando sui commit](./trip.md)
+- [Muovi a tempo il bacino...](./hook.md)
 
 # Keep calm and git gud
 
-- [REFLOG!](./reflog.md)
-- [SQUASH!](./squash.md)
-- [Consigli remote!](./remote_tips.md)
+- [Caos in arrivo](./remote_tips.md)
+- [Mamma, ho pushato le credenziali di produzione](./squash.md)
 
 # BONUS
 
 - [Comandi istantanei](./instant.md)
-- [Git Flow](./flow.md)
+- [Git Workflows](./flow.md)
 - [Git LFS](./lfs.md)
-<!-- - [Git Butler](./butler.md) -->
 
 ------------------------------
-
-<!-- # Fonti -->
 
 [Fonti](./references.md)

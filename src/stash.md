@@ -1,4 +1,4 @@
-# Stash
+# Too good to go
 
 Ti accorgi che il tuo lavoro di due ore ti ha portato ad un vicolo cieco?
 Non buttare via tutte le modifiche dall'ultimo commit! Mettile in stash!

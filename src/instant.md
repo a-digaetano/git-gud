@@ -47,3 +47,9 @@ Per rendere le cose un pochino più chiare, sono stati introdotti i comandi:
 - `git switch` per cambiare branch e fare in modo che, se esiste una controparte remota,
 verrà automaticamente tracciata
 - `git restore` per annullare le modifiche effettuate dall'ultimo commit su un determinato file
+
+## Smart Pull
+
+```
+git config --global pull.rebase true
+```
