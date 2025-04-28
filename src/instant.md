@@ -53,3 +53,8 @@ verrà automaticamente tracciata
 ```
 git config --global pull.rebase true
 ```
+
+Già menzionato in precedenza, permette di configurare il comportamento di default dell'operazione di pull
+in maniera che eventuali commit locali che andrebbero in conflitto con quelli ormai presenti in remoto
+vengano "spostati" in fondo alla timeline, in modo da non intrecciare i commit effettuati dagli utenti
+e di non avere un ulteriore commit di merge che può risultare confusionario.

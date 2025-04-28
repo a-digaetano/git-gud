@@ -20,7 +20,6 @@
 
 - [Comandi istantanei](./instant.md)
 - [Git Workflows](./flow.md)
-- [Git LFS](./lfs.md)
 
 ------------------------------
 

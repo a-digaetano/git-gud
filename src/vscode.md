@@ -14,5 +14,5 @@ Aprendo il menu:
 ![alt text](assets/git-preview.png)
 è possibile notare tutte le funzionalità principali.
 
-Tutte le rimanenti si trovano sulla paletta dei comandi, che si apre con `Ctrl + shift + P`
+Tutte le rimanenti si trovano sulla paletta dei comandi, che si apre con `Ctrl + Shift + P`
 ![alt text](assets/git-palette.png)

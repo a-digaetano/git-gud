@@ -1,6 +1,7 @@
 # Chi fa da sè, non fa merge
 
 Non usare `git checkout` come i tuoi antenati per cambiare branch! La soluzione moderna è:
+
 ```bash
 git switch
 ```
@@ -13,7 +14,7 @@ In vscode, basta cliccare in basso a sinistra sul nome del branch attuale per ve
 
 ![alt text](./assets/vscode-new-branch.png)
 
-Per effettuare un merge, basta aprire il pannello dei comandi (Ctrl + Shift + P) e cercare merge...
+Per effettuare un merge, basta aprire il pannello dei comandi (`Ctrl + Shift + P`) e cercare merge...
 
 ![alt text](./assets/vscode-merge.png)
 
