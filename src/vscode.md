@@ -16,3 +16,7 @@ Aprendo il menu:
 
 Tutte le rimanenti si trovano sulla paletta dei comandi, che si apre con `Ctrl + Shift + P`
 ![alt text](assets/git-palette.png)
+
+Inoltre, con una licenza GitHub Copilot adeguata, è possibile:
+- Generare un messaggio di commit in base alle modifiche effettuate (sempre meglio del generico "Fix")
+- Effettuare una vera e propria code review, per ulteriori dettagli guarda [qui](https://docs.github.com/en/copilot/using-github-copilot/code-review/using-copilot-code-review?tool=vscode)

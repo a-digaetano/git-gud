@@ -14,11 +14,17 @@ In vscode, basta cliccare in basso a sinistra sul nome del branch attuale per ve
 
 ![alt text](./assets/vscode-new-branch.png)
 
-Per effettuare un merge, basta aprire il pannello dei comandi (`Ctrl + Shift + P`) e cercare merge...
+Per effettuare un merge, basta aprire il pannello dei comandi (`Ctrl + Shift + P`) e cercare merge... 
 
 ![alt text](./assets/vscode-merge.png)
 
 ![alt text](./assets/vscode-merge-2.png)
+
+che è l'equivalente di
+
+```bash
+git merge branchname
+```
 
 Una volta selezionato il branch verrà automaticamente creato il commit di merge. Se invece dovessero esserci dei conflitti, dal menu git vedrete i file in questione con dei punti esclamativi. Aprendone uno potrete risolvere tutti i problemi in due maniere: quella scomoda...
 
@@ -39,8 +45,13 @@ si può usare
 ```bash
 git merge --abort
 ```
-
 ![alt](./assets/vscode-merge-abort.png)
+
+Una volta risolti tutti i conflitti, su vscode creare un commit con le risoluzioni o da riga di comando
+
+```bash
+git merge --continue
+```
 
 Piccola chicca: se per caso vuoi ripetere la risoluzione dei conflitti su un singolo file:
 
